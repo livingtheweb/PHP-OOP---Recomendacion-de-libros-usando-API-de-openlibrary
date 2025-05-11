@@ -1,0 +1,10 @@
+{
+  "name": "book-fetcher/app",
+  "description": "Libros sugeridos usando namespaces",
+  "autoload": {
+      "psr-4": {
+          "App\\": "src/"
+      }
+  },
+  "require": {}
+}
