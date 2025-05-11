@@ -1,6 +1,8 @@
 # 📚 Book Finder
 
-Este proyecto es una aplicación en PHP orientada a objetos que permite buscar y listar libros de autores utilizando la API de Open Library. Se enfoca en el uso de **namespaces**, **autoload** y una estructura de carpetas moderna para un código limpio y mantenible.
+Este proyecto es una aplicación en PHP orientada a objetos que permite obtener y listar libros de autores utilizando la API de Open Library. Se enfoca en el uso de **namespaces**, **autoload** y una estructura de carpetas moderna para un código limpio y mantenible.
+Si, todo esto se podría reducir a un simple index.php, pero me pareció mejor como práctica personal usar PHP OOP pues quiero afianzar mis conocimientos al respecto (del 0 al 10, me otorgaría un 7).
+De todas maneras, en otro repo envío el proyecto simplificado.
 
 ---
 
